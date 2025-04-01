@@ -20,3 +20,4 @@ vendor/
 # Archivos de respaldo
 *.bak
 *.swp
+3)c) Agrega elementos .exe que no son necesario y no tienen funcionanlidad para eso agregamos gitignore con elementos de visual estudio code de C y Executable
