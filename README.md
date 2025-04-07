@@ -21,3 +21,6 @@ vendor/
 *.bak
 *.swp
 3)c) Agrega elementos .exe que no son necesario y no tienen funcionanlidad para eso agregamos gitignore con elementos de visual estudio code de C y Executable
+3)g)Los resultados de los apartados 2 y 3 son similares porque ambos muestran direcciones de memoria y contenido de variables, usando punteros.
+En el punto 4 se muestra la dirección del puntero en sí mismo, que es diferente a la dirección de la variable a la que apunta. Esto se debe a que el puntero también es una variable almacenada en memoria, con su propia dirección.
+
